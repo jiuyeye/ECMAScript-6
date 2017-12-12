@@ -34,5 +34,5 @@ class Women extends Person{
         super(name);
     }
 }
-var w = new Women('Black');
+var w = new Women('Jim');
 w.say();
