@@ -1,3 +1,4 @@
 'use strict';
+
 import fn from './default';
-fn();
+fn(1,3,5,6);
